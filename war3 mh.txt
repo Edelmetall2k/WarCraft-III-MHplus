@@ -1,0 +1,7 @@
+Before
+05310341   66:0B0C50        OR CX,WORD PTR DS:[EAX+EDX*2] [See in units in fog]
+053107B5   66:0B1470        OR DX,WORD PTR DS:[EAX+ESI*2] [Clickable]
+0550AC90   66:8B06          MOV AX,WORD PTR DS:[ESI] [Remove minimap fog]
+After
+Game+210341      66:83C9 0F    OR CX,000F
+Game+2107B5      66:83CA 0F    OR DX,000F
