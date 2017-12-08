@@ -8,12 +8,14 @@ Game.dll+283722 - 66 09 18              - or [eax],bx [Unknown, something to do 
 
 After
 Game+210341      66:83C9 0F    OR CX,000F
-Game+2107B5      66:83CA 0F    OR DX,000FGame+2107B5      66:83CA 0F    OR DX,000F
+Game+2107B5      66:83CA 0F    OR DX,000F
 
 Cam:
++Hotkey?
 
 MiniMap:
 
 Illusion:
 
 InvisUnits:Archer/BM etc
+
